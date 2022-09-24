@@ -1,0 +1,36 @@
+.judul {
+   font-size: 20px;
+   font-weight:100;
+   color: rgb(0, 0, 0);
+}
+.judul2{
+    font-size: 16px;
+}
+
+img{
+    width: 200px;
+}
+
+body{
+    background-color: rgb(255, 0, 0);
+    color: rgb(251, 255, 0);
+}
+
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    padding: 20px;
+    margin: 40px;
+}
+
+.container > .kotak{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(0, 0, 0);
+}
+
+.tabel, td,tr,th{
+    border: 2px solid black;
+    margin: 30px;
+}
