@@ -12,8 +12,8 @@ img{
 }
 
 body{
-    background-color: rgb(255, 0, 0);
-    color: rgb(251, 255, 0);
+    background-color: red;
+    color: rgb(25, 0, 255);
 }
 
 .container{
